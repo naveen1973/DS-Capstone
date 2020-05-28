@@ -1,2 +1,2 @@
 # DS-Capstone
-This is a repository to for Coursera Applied Data Science Capstone project.
+This is a repository for Coursera Applied Data Science Capstone project.
